@@ -94,8 +94,8 @@ Logistic Regression was selected using only the cross-validation results. The te
 ## How to run
 
 ```bash
-git clone https://github.com/lumagnani/employee-attrition.git
-cd employee-attrition
+git clone https://github.com/lumagnani/EmployeeAttrition.git
+cd EmployeeAttrition
 pip install -r requirements.txt
 jupyter notebook notebooks/employee_attrition.ipynb
 ```
